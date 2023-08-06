@@ -1,4 +1,7 @@
 <?php
+// Định nghĩa: Stratery pattern là nơi định nghĩa tập hợp các thuật toán or chiến lược và cho phép ngdung chọn bất kì thuật toán nào để thực thi tại thời điểm chạy => giúp tách biệt logic code, làm cho code dễ bảo trì, mở rộng
+
+
 // Subject (Observable)
 class Product {
     private $name;
