@@ -1,5 +1,5 @@
 <?php
-// Định nghĩa: Proxy pattern cho phép bạn cung cấp một giao diện đơn giản để truy cập một hệ thống phức tạp với nhiều class và method. Pattern này giúp giảm sự phức tạp và tăng tính rõ ràng trong việc sử dụng các thành phần phức tạp bên trong hệ thống. Thay vì gọi trực tiếp tới các class và methods phức tạp thì chỉ cần gọi thông qua một "facade" (giao diện) đơn giản.
+// Định nghĩa: Facade pattern cho phép bạn cung cấp một giao diện đơn giản để truy cập một hệ thống phức tạp với nhiều class và method. Pattern này giúp giảm sự phức tạp và tăng tính rõ ràng trong việc sử dụng các thành phần phức tạp bên trong hệ thống. Thay vì gọi trực tiếp tới các class và methods phức tạp thì chỉ cần gọi thông qua một "facade" (giao diện) đơn giản.
 
 // ứng dụng cuộc sống:  uống coffee
 // => nếu như chúng ta tự mua về pha và uống thì rất phức tạp và cầu kỳ. Chính vì thế, mua một ly coffee, để trong xe vừa đi vừa uống một cảm giác rất thư thái.
